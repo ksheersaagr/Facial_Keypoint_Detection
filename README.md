@@ -16,7 +16,7 @@ Facial keypoints (also called facial landmarks) are the small magenta dots shown
 
 1. Clone the repository, and navigate to the downloaded folder. This may take a minute or two to clone due to the included image data.
 ```
-git clone https://github.com/Garima13a/Facial-Keypoint-Detection
+git clone https://github.com/Noob-can-Compile/Facial_Keypoint_Detection
 cd P1_Facial_Keypoints
 ```
 
